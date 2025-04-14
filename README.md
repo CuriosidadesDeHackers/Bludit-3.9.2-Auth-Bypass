@@ -48,4 +48,8 @@ Este script de Python está diseñado para realizar ataques de fuerza bruta en l
 ## Ejemplo
 
 ```sh
-python3 definitivo.py -l http://192.168.18.57/admin/login.php -u user.txt -p /usr/share/wordlists/rockyou.txt
+python3 Bludit-Auth-Bypass.py -l http://192.168.18.57/admin/login.php -u user.txt -p /usr/share/wordlists/rockyou.txt
+
+![2025-04-14_12-50](https://github.com/user-attachments/assets/5d76e17f-1c01-414c-b52e-cfd343449c79)
+
+
